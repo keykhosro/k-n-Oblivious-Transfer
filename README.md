@@ -41,10 +41,10 @@ The implementation was performed in Python using the GMPY2 library for efficient
 | **Scheme 3**   | 0.7922 seconds         | 0.1018 seconds      |
 
 ### Figures
-1. **Figure 1**: ![Impact of Increasing n on Execution Time](scheme1_n.png)
-2. **Figure 2**: ![Impact of Increasing k on Execution Time](scheme1_k.png)
-3. **Figure 3**: ![Comparison of Proposed Schemes in Precomputation Mode: Impact of Increasing n on Execution Time](schemes_n.png)
-4. **Figure 4**: ![Comparison of Proposed Schemes in Precomputation Mode: Impact of Increasing k on Execution Time](schemes_k.png)
+1. **Figure 1**: Impact of Increasing n on Execution Time ![Impact of Increasing n on Execution Time](scheme1_n.png)
+2. **Figure 2**: Impact of Increasing k on Execution Time ![Impact of Increasing k on Execution Time](scheme1_k.png)
+3. **Figure 3**: Comparison of Proposed Schemes in Precomputation Mode: Impact of Increasing n on Execution Time ![Comparison of Proposed Schemes in Precomputation Mode: Impact of Increasing n on Execution Time](schemes_n.png)
+4. **Figure 4**: Comparison of Proposed Schemes in Precomputation Mode: Impact of Increasing k on Execution Time ![Comparison of Proposed Schemes in Precomputation Mode: Impact of Increasing k on Execution Time](schemes_k.png)
    
 
 ## Citation
